@@ -1,0 +1,15 @@
+
+<%= form_with model: @link, url: links_path, method: :post, local: true do |form| %>
+  <div>
+    <%= form.label :original_url, "Paste your link:" %>
+    <%= form.text_field :original_url, placeholder: "https://yourexample.com" %>
+  </div>
+  <div>
+    <%= form.submit "Short link" %>
+  </div>
+<% end %>
+
+<% if @shortened_link %>
+  <h2>Your shortened link:</h2>
+  <p><a href="/<%= @shortened_link.slug %>" target="_blank">/<%= @shortened_link.slug %></a></p>
+<% end %>
