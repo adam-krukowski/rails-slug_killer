@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+ body {
+  background: url('fire_snail.gif');
+  background-size: cover;
+  margin: 0;
+  padding: 10vh;
+  height: 30vh;
+  overflow: hidden;
+  color: white;
+  font-family: Arial, sans-serif;
+}
