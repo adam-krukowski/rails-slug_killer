@@ -12,6 +12,5 @@ RSpec.describe Link, type: :model do
       expect(link).not_to be_valid
     end
 
-
   end
 end
