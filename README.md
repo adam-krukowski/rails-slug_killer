@@ -9,15 +9,15 @@ A lightweight URL shortener built with Ruby on Rails. Simplify and manage links 
 
 Features
 
-🔥 Custom & Unique Slugs
+⚪️  Custom & Unique Slugs
 
-📊 Validation for URLs
+⚪️  Validation for URLs
 
-🎨 Animated Fire-Snail Background
+⚪️  Animated Fire-Snail Background
 
-📂 PostgreSQL Database
+⚪️  PostgreSQL Database
 
-🔧 RSpec Tests for Reliability
+⚪️  RSpec Tests for Reliability
 
 
 Installation
