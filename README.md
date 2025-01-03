@@ -1,5 +1,5 @@
 🐌 Rails Slug Killer
-
+ 
 <img width="965" alt="Screenshot 2024-12-28 at 00 05 50" src="https://github.com/user-attachments/assets/4b27a4e6-5298-4e6c-8fd3-09f122fcb741" />
 
 A lightweight URL shortener built with Ruby on Rails. Simplify and manage links effortlessly with unique slugs and a dynamic design.
